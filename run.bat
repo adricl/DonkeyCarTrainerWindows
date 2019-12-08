@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy ByPass -NoExit -Command .\donkey.ps1
